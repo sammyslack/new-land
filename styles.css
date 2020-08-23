@@ -1,0 +1,112 @@
+/*navbar-brand*/
+
+.navbar-brand{
+  font-family: sans-serif;
+  font-weight: bolder;
+  padding-left: 2%;
+  font-size: 1.5rem;
+}
+
+.fas{
+  font-weight: lighter;
+  font-size: 0.8rem;
+  color: #fff;
+}
+
+.firstimage{
+  width: 1349px;
+  height: 600px;
+}
+/*section 1*/
+.box{
+  position: relative;
+  text-align: justify;
+}
+
+.text {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+}
+.text-area{
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+/*section2*/
+.section2{
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  margin-right: 35%;
+}
+
+.sub-section2{
+  display: inline-block;
+  padding: 0 3px,
+}
+
+.header{
+  font-family: serif;
+  font-weight: lighter;
+}
+
+/*section3*/
+.column-extra{
+  padding: 20px 4% 0;
+  background-color: #f4f4f4;
+  height: 100px;
+  margin: 0 150px 0;
+  position: relative;
+}
+.cool-button{
+  position: absolute;
+  right: 2%;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+hr{
+  background-color: #00bdd4;
+  width: 1049px;
+}
+
+/*section4*/
+.section-2-top{
+  text-align: center;
+  padding-bottom: 2%;
+}
+.container{
+  padding: 2px 2% 2%;
+}
+/*carousel*/
+
+#carouselExampleControls{
+background-color: #191919;
+text-align: center;
+margin-top: 2%;
+}
+.courasel-section{
+  width: 350px;
+  height: 200px;
+  padding: 0 10px;
+  margin: 2% 0 3%;
+}
+h5{
+  color: #fff;
+  font-family: serif;
+  font-weight: normal;
+  padding-top: 5px;
+}
+.bottom-container{
+  padding: 3%;
+  text-align: center;
+  background-color: #007bff;
+  color: #fff;
+
+}
+.fab{
+  padding: 0 5px;
+}
